@@ -1,0 +1,40 @@
+#wrapper {
+}
+
+#formBox {
+	width: 250px;
+	border: solid black 1px;
+	padding: 10px;
+}
+
+#formBox .errorBox {
+	color: red;
+	padding-bottom: 5px;
+}
+
+#formBox label {
+	display: block;
+	float:left;
+	width: 80px;
+}
+
+#formBox input {
+	width: 150px;
+}
+
+#formBox .fieldBox {
+	padding-bottom: 5px;
+}
+
+#formBox .buttonBox {
+	padding-left: 80px;
+}
+
+#formBox .buttonBox input {
+	width: 100px;
+}
+
+#menuBox {
+	padding-bottom: 3px;
+	border-bottom: 1px solid black;
+}
